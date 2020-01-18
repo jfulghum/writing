@@ -1,2 +1,7 @@
+permalink: /:title
+
 theme: jekyll-theme-minimal
-Title: Johanna Fulghum
+title: Johanna Fulghum
+
+
+url: http://johannafulghum.com
