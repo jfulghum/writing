@@ -2,7 +2,7 @@
     display:flex;
     justify-content:center;
 }
-intro {
+.name-container {
   display:flex;
   justify-content:center;
 }
@@ -12,10 +12,10 @@ intro {
 }
 
 .nav-bar {
-   
     margin:10px;
     padding:10px;
-    }
+}
+
 body {background-color: #d9d9d9;}
 
 .nav-bar { color: #000000; text-decoration: none;}
