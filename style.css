@@ -29,6 +29,7 @@ h2 {
 }
 
 p {
+    padding-left: 16px;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
