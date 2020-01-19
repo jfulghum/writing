@@ -5,7 +5,7 @@
 
 .name {
     text-align: center;
-    font-size: 35px;
+    border: bold;
 }
 
 .tagline {
