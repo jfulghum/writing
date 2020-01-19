@@ -6,6 +6,9 @@
   display:flex;
   justify-content:center;
 }
+.name {
+    font-size: 20px;
+}
 .tagline {
   display:flex;
   justify-content:center;
