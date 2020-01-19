@@ -24,6 +24,10 @@ body {
     padding:10px;
 }
 
+.quote {
+    width: 320px;
+}
+
 body {background-color: #d9d9d9;}
 
 .nav-bar { color: #000000; text-decoration: none;}
