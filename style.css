@@ -4,8 +4,9 @@
 }
 
 .name {
-    display:flex;
-    justify-content:center;
+    text-align: center
+/*     display:flex;
+    justify-content:center; */
 }
 
 .tagline {
