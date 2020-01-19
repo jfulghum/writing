@@ -24,6 +24,10 @@ body {
     padding:10px;
 }
 
+h2 {
+    padding: 16px;
+}
+
 p {
     display: block;
     margin-block-start: 1em;
