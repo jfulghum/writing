@@ -25,21 +25,22 @@ body {
 }
 
 h2 {
-    padding-left: 16px;
+    padding-left: 35px;
 }
 
 p {
-    padding-left: 16px;
+    padding-left: 35px;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    width: 50vw;
 }
 
 .quote {
-    width: 600px;
-    padding-left: 16px;
+    padding-left: 35px;
+    width: 50vw;
 }
 
 body {background-color: #d9d9d9;}
