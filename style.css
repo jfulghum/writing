@@ -26,11 +26,11 @@ body {
 }
 
 h2 {
-    padding-left: 35px;
+    padding-left: 45px;
 }
 
 p {
-    padding-left: 35px;
+    padding-left: 45px;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -40,7 +40,7 @@ p {
 }
 
 .quote {
-    padding-left: 35px;
+    padding-left: 45px;
     width: 50vw;
 }
 
