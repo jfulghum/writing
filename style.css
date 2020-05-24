@@ -54,30 +54,3 @@ a:hover { color: #3366CC; text-decoration: underline;}
 a:active { color: #000000; text-decoration: none;}
 a { color: #7C3F7C}
 
-
-body {
-  font-size: 60px;
-}
-
-.e-item-card-recently-viewed_stars {
-  color: #555;
-}
-
-.m-item-card-recently-viewed_stars__orange {
-  color: #f97d00;
-}
-
-.half {
-  display: inline-flex;
-}
-
-.half > div:first-child {
-  overflow: hidden;
-  width: 27px;
-  z-index: 1;
-  color: #f97d00;
-}	
-.half > div:last-child {
-  position: relative;
-  margin-left:-27px;
-}
