@@ -1,12 +1,16 @@
 body {
     font-family: 'Gelasio', serif;
     font-family: 'Ibarra Real Nova', serif;
+
+
 }
 
 .menu-container {
     display:flex;
     justify-content:center;
+  
 }
+
 
 .name {
     text-align: center;
@@ -26,8 +30,9 @@ body {
 }
 
 h2 {
-    padding-left: 45px;
+    padding-left: 95px;
     padding-right: 35px
+/*     margin-left: 80px; */
 }
 
 p {
@@ -39,12 +44,13 @@ p {
     margin-inline-end: 0px;
     width: 60vw;
     margin: 0
-    margin-left: 40px;
+    margin-left: 80px;
 }
 
 li {  
+  width: 40%;
    margin-left: 80px; 
-   margin-right: 680px; 
+/*    margin-right: 680px;  */
 }
 
 
