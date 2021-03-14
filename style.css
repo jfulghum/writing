@@ -1,6 +1,8 @@
+
 body {
     font-family: 'Gelasio', serif;
     font-family: 'Ibarra Real Nova', serif;
+      margin-left: 80px;
 
 
 }
@@ -30,26 +32,27 @@ body {
 }
 
 h2 {
-    padding-left: 95px;
+    padding-left: 55px;
     padding-right: 35px
 /*     margin-left: 80px; */
 }
 
 p {
     padding-left: 45px;
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    width: 60vw;
+/*     display: block; */
+/*     margin-block-start: 1em;
+    margin-block-end: 1em; */
+/*     margin-inline-start: 0px; */
+/*     margin-inline-end: 0px; */
+/*     width: 60vw; */
     margin: 0
+/*     margin-left: 8px; */
 }
 
 li {  
   width: 40%;
    margin-left: 80px; 
-
+/*    margin-right: 680px;  */
 }
 
 
