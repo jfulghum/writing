@@ -88,3 +88,7 @@ tbody {
     vertical-align: middle;
     border-color: inherit;
 }
+
+img {
+    left: 40px;
+}
